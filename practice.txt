@@ -1,2 +1,3 @@
-Adding a line to the text
-more text for my file
+This is a test of git.
+I am making edits to test what happens. 
+I am just writing some more....
